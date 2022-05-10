@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bank App</string>
+    <string name="insertIdAccount">Digite o id da conta aqui</string>
+    <string name="continue1">Continuar</string>
+    <string name="welcome">Olá, bem-vindo(a) à Santander Dev Week! \n Digite um ID do Correntista para visualizar seu extrato bancário:</string>
+    <string name="search">Pesquisar</string>
+</resources>
